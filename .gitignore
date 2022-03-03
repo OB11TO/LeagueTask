@@ -1,20 +1,4 @@
-# Default ignored files
-/shelf/
-/.idea/*
-# Editor-based HTTP Client requests
-/httpRequests/
-# Datasource local storage ignored files
-/dataSources/
-/dataSources.local.xml
-
-# Intellij
-/ .idea/*
-# Maven
-log/
-target/classes
-target/generated-sources
-
 .idea
-out
 *.iml
-log
+target
+*.jar
